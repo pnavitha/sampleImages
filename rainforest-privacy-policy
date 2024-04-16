@@ -25,7 +25,13 @@ Develop new products, services, features, and functionality.
 Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the mobile application, and for marketing and promotional purposes.
 Send you emails.
 Find and prevent fraud.
-Log Files
+
+## How we use your face-data
+Adding  face-data is optional in the app but user can add it if wants to generate their AI-portraits. Following are further details about the face-data collection and storage;
+Ques 1. Is face data retained? - Yes, face data is retained until the user's profile is active. Only the respective user can use their face-data. When user deletes their profile, face data is also permanently deleted.
+Ques 2. Your reasons for storing face data - Face-data is stored as Rainforest provides the functionality of creating AI-portraits. Face-data is optional but if user wishes to create their AI-potraits, then they can upload their face-photo and use it whenever needed.
+Ques 3. The length of time face data is stored and why you store it this specific length of time? - We store face-photo only until user profile exists. If user is deleting their profile, all their created photos and face photos are permanently deleted. 
+Ques 4. Which third parties you share face data with? - We don't share face-photo with any third party. Face-photo is stored on our own servers and are only accessible by the respective users.
 
 Rainforest AI follows a standard procedure of using log files. These files log visitors when they visit mobile applications. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the mobile application, and gathering demographic information.
 
